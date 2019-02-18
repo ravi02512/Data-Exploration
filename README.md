@@ -1,4 +1,4 @@
-# Data-Exploration
+# predicting nan values using knn algorithm 
 pridicting the nan values in a dataset with KNN algorithm
 
 About the dataset:-
